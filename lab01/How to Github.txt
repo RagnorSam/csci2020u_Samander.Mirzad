@@ -4,3 +4,4 @@ git commit -m "comment"
 git push
 
 git config user.name=asdasdasd
+alright new test
