@@ -3,7 +3,4 @@ git add .
 git commit -m "comment" 
 git push
 
-
-
-also
 git config user.name=asdasdasd
